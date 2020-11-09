@@ -1,0 +1,44 @@
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+\\Mac\Home\Documents\SQL Server Management Studio\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManagement.resources
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManagement.resources
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxShockwaveFlashObjects.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Desktop\Coffee shop management\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
